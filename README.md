@@ -1,5 +1,6 @@
 ![image](https://github.com/Kimsukkyung0/kimsukkyung0/assets/129349523/49f5fea0-bea6-468c-afa0-3d1effa7eb8a)
-
+- Junior developer with aspirations to become a versatile full-stack developer
+- smk93021@gmail.com
 </br>
 
 ## SKILLS
