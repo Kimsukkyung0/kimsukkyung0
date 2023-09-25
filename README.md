@@ -1,3 +1,6 @@
+![image](https://github.com/Kimsukkyung0/kimsukkyung0/assets/129349523/49f5fea0-bea6-468c-afa0-3d1effa7eb8a)
+
+</br>
 
 ## SKILLS
 <div align=left> 
@@ -11,7 +14,6 @@
 <img src="https://img.shields.io/badge/maven-C71A36?style=flat&logo=maven&logoColor=white"/>
 </div>
 
-### - 
 <div align=left> 
 <img src="https://img.shields.io/badge/figma-F24E1E?style=flat&logo=figma&logoColor=white"/>
 <img src="https://img.shields.io/badge/swagger-85EA2D?style=flat&logo=swagger&logoColor=white"/>
