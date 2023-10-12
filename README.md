@@ -1,5 +1,5 @@
 
-### Junior developer with aspirations to become a versatile full-stack developer
+### Junior java developer with aspirations to become a versatile full-stack developer
 📧 smk93021@gmail.com
 </br>
 
