@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Min's%20GitHub%20😎&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
-
 📧 smk93021@gmail.com
 </br>
 
@@ -20,8 +18,3 @@
 <img src="https://img.shields.io/badge/swagger-85EA2D?style=flat&logo=swagger&logoColor=white"/>
 <img src="https://img.shields.io/badge/git-181717?style=flat&logo=git&logoColor=white"/>
 </div>
-
-## SUMMARY</div>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimsukkyung0&langs_count=8)</div></div>
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKimsukkyung0%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
